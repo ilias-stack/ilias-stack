@@ -1,4 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/ilias-stack/ilias-stack/main/welcomeMSG.gif)](https://ilias-zaazaa.netlify.app/)
+<div align="center">
+  <a href="https://ilias-zaazaa.netlify.app/">
+    <img src="https://raw.githubusercontent.com/ilias-stack/ilias-stack/main/welcomeMSG.gif" width="100%">
+  </a>
+</div>
 <h1 align="center">Dear visitor👋, I'm Ilias Zaazaa</h1>
 <h3 align="center">A passionate learner in the tech field from morocco</h3>
 
