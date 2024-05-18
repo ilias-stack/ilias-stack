@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **machine and deep learning**
 
-- 👨‍💻 All of my projects are available at [https://ilias-zaazaa.netlify.app/](https://ilias-zaazaa.netlify.app/)
+- 👨‍💻 Visit my portfolio and find other ways to contact me [https://ilias-zaazaa.netlify.app/](https://ilias-zaazaa.netlify.app/)
 
 - 💬 Ask me about **Flutter, MEAN and Spring**
 
 - 📫 How to reach me **pay.ilias2002@gmail.com**
 
-- 📄 Know about my experiences [https://ilias-zaazaa.netlify.app/assets/resume.pdf](https://ilias-zaazaa.netlify.app/assets/resume.pdf)
+- 📄 Here is my CV [https://ilias-zaazaa.netlify.app/assets/resume.pdf](https://ilias-zaazaa.netlify.app/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
